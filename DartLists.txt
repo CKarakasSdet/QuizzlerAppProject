@@ -1,0 +1,22 @@
+
+myList[2];
+
+myList.indexOf('Katie');
+
+myList.add('Ben');
+
+myList.insert(int index, String element);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
